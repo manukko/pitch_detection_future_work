@@ -5,11 +5,12 @@
 
 
 .digital_alarm_styling{
-  font-family:'digital-clock-font';
-  font-weight: 500;
-  font-size: 200px;
-
-  display: inline-block;
+    font-family: 'digital-clock-font';
+    font-weight: 500;
+    position: relative;
+    top: 22px;
+    font-size: 200px;
+    display: inline-block;
 }
 
 .pitch_window{
